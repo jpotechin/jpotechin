@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Joseph
 #### Solving through code
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
 Skills: REACT / REACT NATIVE / ANGULAR / IONIC / JS / HTML / CSS
 
