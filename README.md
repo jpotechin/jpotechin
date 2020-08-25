@@ -3,7 +3,7 @@
 
 Skills: REACT / REACT NATIVE / ANGULAR / IONIC / JS / HTML / CSS
 
-- 🔭 I’m currently working on React Native Shopping App 
+- 🔭 I’m currently working on a React Native Shopping App 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jpotechin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joseph-potechin-6a9986185//)  
