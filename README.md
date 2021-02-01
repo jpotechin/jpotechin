@@ -1,13 +1,15 @@
 ### Hi there 👋, my name is Joseph
-#### Solving through code
+#### Growing through code
 
-Skills: REACT / REACT NATIVE / ANGULAR / IONIC / JS / HTML / CSS
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joseph-potechin-6a9986185/)  
+Skills: JAVASCRIPT / TYPESCRIPT / REACT / REACT NATIVE / ANGULAR / IONIC / C# / .NET / HTML / CSS
 
 - 🔭 I’m currently working on a .Net / Angular App
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpotechin&repo=sharemyplace-client)](https://github.com/jpotechin/Sharemyplace-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpotechin&repo=sharemyplace-api)](https://github.com/jpotechin/Sharemyplace-API)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jpotechin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joseph-potechin-6a9986185/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpotechin&theme=prussian)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpotechin&show_icons=true)  
